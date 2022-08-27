@@ -1,16 +1,22 @@
 # tictactoe
 
-A new Flutter project.
+<p>An app to help summarise lengthy texts by using the summry api</p>
 
-## Getting Started
+<p>
+<img src="https://github.com/virtz/tictactoe/blob/main/screenshots/screenshot1.png", width:"150px" height="400" hspace="5" vspace="20"/>
+<img src="https://github.com/virtz/somry/blob/main/screenshots/screenshot2.png", width:"150px" height="400" hspace="5" vspace="20"/>
+</p>
+<img src="https://github.com/virtz/somry/blob/main/screenshots/screenshot3.png", width:"150px" height="400" hspace="5" vspace="20"/>
+</p>
+<img src="https://github.com/virtz/somry/blob/main/screenshots/screenshot4.png", width:"150px" height="400" hspace="5" vspace="20"/>
+</p>
 
-This project is a starting point for a Flutter application.
+## Contribution 🍕🗺
 
-A few resources to get you started if this is your first Flutter project:
+Feature requests, issues, pull requests and questions are welcome.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Credits 😎🤓
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Johanis Mike on youtube
+
+virtz(owner of repo): Mobile Developer [( github )](https://github.com/virtz)
