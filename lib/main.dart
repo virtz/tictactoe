@@ -31,6 +31,7 @@ class MainPage extends StatefulWidget {
 }
 
 class _MainPageState extends State<MainPage> {
+  ///variables 
   final countMatrix = 3;
   final double size = 92;
   String? lastMove;
@@ -41,6 +42,7 @@ class _MainPageState extends State<MainPage> {
     setEmptyFields();
   }
 
+///create tictacttoe grid
   void setEmptyFields() {
     setState(() {
       matrix = List.generate(
@@ -136,6 +138,8 @@ class _MainPageState extends State<MainPage> {
             ));
   }
 
+
+///method to determine winner of gameee
   bool isWinner(int x, int y) {
     var col = 0, row = 0, diag = 0, rdiag = 0;
     final player = matrix![x][y];
